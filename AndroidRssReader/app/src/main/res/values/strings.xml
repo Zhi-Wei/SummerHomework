@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android RSS Reader</string>
+    <string name="title_text">標題：</string>
+    <string name="link_text">連結：</string>
+    <string name="pubDate_text">日期：</string>
+    <string name="description_text">描述：</string>
+    <string name="category_text">分類：</string>
+    <string name="required_url">請輸入 RSS 網址。</string>
+    <string name="rss_title_mobile01">Mobile01熱門文章</string>
+    <string name="rss_title_businessWeekly">商業周刊 - 最新綜合文章</string>
+    <string name="rss_title_taipeiTravel">臺北旅遊網正體版旅遊報馬仔</string>
+    <string name="error_message">發生錯誤，請稍後再試。</string>
+    <string name="info">訊息</string>
+    <string name="loading_please_wait">讀取中，請稍後…</string>
+</resources>

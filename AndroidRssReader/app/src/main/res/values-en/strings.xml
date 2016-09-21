@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android RSS Reader</string>
+    <string name="title_text">Title：</string>
+    <string name="link_text">Link：</string>
+    <string name="pubDate_text">Date：</string>
+    <string name="description_text">Description：</string>
+    <string name="category_text">Category：</string>
+    <string name="info">Info</string>
+    <string name="loading_please_wait">Loading, please wait...</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".views.MainActivity">
+
+    <item
+        android:icon="@android:drawable/ic_menu_more"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/rss_url_mobile01"
+                android:title="@string/rss_title_mobile01" />
+            <item
+                android:id="@+id/rss_url_businessWeekly"
+                android:title="@string/rss_title_businessWeekly" />
+            <item
+                android:id="@+id/rss_url_taipeiTravel"
+                android:title="@string/rss_title_taipeiTravel" />
+        </menu>
+    </item>
+
+</menu>
